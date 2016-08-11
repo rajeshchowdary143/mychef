@@ -1,0 +1,9 @@
+{
+  "id":"galaxy",
+  "comment":"galaxy user",
+  "uid":"2005",
+  "gid":0,
+  "home":"/home/galaxy",
+  "shell":"/bin/bash",
+  "password":"galaxy123"
+}
